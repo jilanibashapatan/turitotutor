@@ -3,6 +3,6 @@ Feature: Turito connect Login
     Given  I Launch chrome browser
     When   I open turito connect home page
     Then   I verify logo is peresent on page
-    And   close browser
+    And   close browser 123
 
 
